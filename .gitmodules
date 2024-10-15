@@ -1,3 +1,6 @@
 [submodule "00_Git"]
 	path = 00_Git
 	url = git@github.com:maevabrtl/00_Git.git
+[submodule "01_Bonjour_JavaScript"]
+	path = 01_Bonjour_JavaScript
+	url = git@github.com:maevabrtl/01_Bonjour_JS.git
