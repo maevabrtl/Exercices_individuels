@@ -1,0 +1,3 @@
+[submodule "00_Git"]
+	path = 00_Git
+	url = git@github.com:maevabrtl/00_Git.git
