@@ -4,3 +4,6 @@
 [submodule "01_Bonjour_JavaScript"]
 	path = 01_Bonjour_JavaScript
 	url = git@github.com:maevabrtl/01_Bonjour_JS.git
+[submodule "02_Guess_a_number"]
+	path = 02_Guess_a_number
+	url = https://github.com/maevabrtl/02_Guess_a_number.git
